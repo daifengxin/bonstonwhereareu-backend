@@ -3,7 +3,8 @@
 ## Clone
 
 ```shell
-
+git clone git@github.com:daifengxin/bonstonwhereareu-backend.git
+cd ./bonstonwhereareu-backend/bostonwhereareu
 ```
 
 ## Build
